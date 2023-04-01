@@ -46,7 +46,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](out1.png)
+
+![image](https://user-images.githubusercontent.com/118668727/229272696-db837254-33d1-4720-9112-e445aed15fa3.png)
 
 
 ## Result:
